@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🤔 My blog:https://jiangnanboy.github.io
-- 📫 My E-mail:2229029156@qq.com
+- 🤔 My blog: https://jiangnanboy.github.io
+- 📫 My E-mail: 2229029156@qq.com
