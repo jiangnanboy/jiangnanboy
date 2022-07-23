@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🤔 My blog:https://jiangnanboy.github.io
+- 📫 My E-mail:2229029156@qq.com
