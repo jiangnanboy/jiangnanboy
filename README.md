@@ -1,3 +1,7 @@
+<!-- 敲代码的图片 -->
+<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<br>
+
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=jiangnanboy&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
 <br>
