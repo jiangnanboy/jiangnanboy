@@ -12,7 +12,9 @@
 </div>
 <br>
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiangnanboy&hide=javascript,html&layout=compact&hide_border=true&langs_count=10)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api//top-langs/?username=jiangnanboy&repo=convoychat" />
+</a>
 <br>
 
 ### Hi there 👋
