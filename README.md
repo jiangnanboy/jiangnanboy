@@ -12,7 +12,7 @@
 </div>
 <br>
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiangnanboy&layout=compact&hide_border=true&langs_count=10)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiangnanboy&hide=javascript,html&layout=compact&hide_border=true&langs_count=10)
 <br>
 
 ### Hi there 👋
