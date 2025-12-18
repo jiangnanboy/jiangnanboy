@@ -4,6 +4,11 @@
 </div>
 <br>
 
+<img align="right" width=400 src="code-fire.gif"/>
+<img align="right" width=400 src="code-fire.gif"/>
+<img align="right" width=400 src="code-fire.gif"/>
+<br>
+
 <img align="right" width=400 src="code-peace.gif"/>
 
 ### Hi there 👋
