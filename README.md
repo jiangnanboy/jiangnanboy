@@ -10,6 +10,8 @@
   <img src="code-fire.gif" width="200" />
 </div>
 
+---
+
 ### Hi there 👋
 
 <!--
@@ -30,6 +32,8 @@ Here are some ideas to get you started:
 - 🤔 My blog: https://jiangnanboy.github.io
 - 📫 My E-mail: 2229029156@qq.com
 - 💬 wechat：番石榴AI
+
+---
 
 <div align="center">
 <img align="right" width=400 src="code-peace.gif"/>
