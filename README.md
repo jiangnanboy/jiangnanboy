@@ -4,10 +4,11 @@
 </div>
 <br>
 
-<img align="right" width=400 src="code-fire.gif"/>
-<img align="right" width=400 src="code-fire.gif"/>
-<img align="right" width=400 src="code-fire.gif"/>
-<br>
+<div align="center">
+  <img src="code-fire.gif" width="200" />
+  <img src="code-fire.gif" width="200" />
+  <img src="code-fire.gif" width="200" />
+</div>
 
 ### Hi there 👋
 
