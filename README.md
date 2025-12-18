@@ -31,5 +31,7 @@ Here are some ideas to get you started:
 - 📫 My E-mail: 2229029156@qq.com
 - 💬 wechat：番石榴AI
 
+<div align="left">
 <img align="right" width=400 src="code-peace.gif"/>
+<div>
 
