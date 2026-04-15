@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 - 🌱 My websit: https://www.wexopen.com
 - 👯 My TalkSheet: https://www.talksheet.wexopen.com
 - 📫 My Rag QA: https://www.rag.wexopen.com
-- 💬 My Mult-Agent: https://www.office.wexopen.com
+- 💬 My Multil-Agent: https://www.office.wexopen.com
 - 📫 My E-mail: 2229029156@qq.com
 - 💬 wechat：番石榴AI
