@@ -35,4 +35,5 @@ Here are some ideas to get you started:
 - 📫 My Rag QA: https://www.rag.wexopen.com
 - 💬 My Multil-Agent: https://www.office.wexopen.com
 - 📫 My E-mail: 2229029156@qq.com
-- 💬 wechat：番石榴AI
+- 💬 My wechat：番石榴AI
+- ⚡ My zhihu：https://www.zhihu.com/people/jiangnanboy
