@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 - 🤔 My blog: https://jiangnanboy.github.io
 - 🌱 My websit: https://www.wexopen.com
 - 👯 My TalkSheet: https://www.talksheet.wexopen.com
-- <img src="talksheet.png" width="600" />
+- <img src="talksheet.png" width="400" />
 - 📫 My Rag QA: https://www.rag.wexopen.com
-- <img src="rag.png" width="600" />
+- <img src="rag.png" width="400" />
 - 💬 My Multil-Agent: https://www.office.wexopen.com
-- <img src="wexoffice.png" width="600" />
+- <img src="wexoffice.png" width="400" />
 - 📫 My E-mail: 2229029156@qq.com
 - 💬 My wechat：番石榴AI
 - ⚡ My zhihu：https://www.zhihu.com/people/jiangnanboy
