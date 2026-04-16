@@ -18,25 +18,25 @@
 - 📝 My Blog: https://jiangnanboy.github.io
 - 🌐 My Website: https://www.wexopen.com
 
-### 🚀 My Projects
+### 🚀 Projects
 
 - **TalkSheet**: https://www.talksheet.wexopen.com
-<div align="center"><img src="talksheet.png" width="400" /></div>
+<div><img src="talksheet.png" width="400" /></div>
 
 - **RAG QA System**: https://www.rag.wexopen.com
-<div align="center"><img src="rag.png" width="400" /></div>
+<div><img src="rag.png" width="400" /></div>
 
 - **Multi-Agent Office**: https://www.office.wexopen.com
-<div align="center"><img src="wexoffice.png" width="400" /></div>
+<div><img src="wexoffice.png" width="400" /></div>
 
 ### 📫 Contact
 - 📧 Email: 2229029156@qq.com
-- 💬 WeChat: **FanShiliu AI**
+- 💬 WeChat: **番石榴AI**
 - 📘 Zhihu: https://www.zhihu.com/people/jiangnanboy
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
