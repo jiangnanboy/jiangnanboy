@@ -14,11 +14,11 @@
 
 ### Hi there 👋
 
-- 🔭 I’m focused on **AI applications, RAG, multi-agent systems, and LLM deployment**
+- 🔭 I’m focused on **AI applications, RAG, Multi-Agent systems, and LLM deployment**
 - 📝 My Blog: https://jiangnanboy.github.io
 - 🌐 My Website: https://www.wexopen.com
 
-### 🚀 Projects
+### 🚀 Online Projects
 
 - **TalkSheet**: https://www.talksheet.wexopen.com
 <div><img src="talksheet.png" width="400" /></div>
@@ -26,7 +26,7 @@
 - **RAG QA System**: https://www.rag.wexopen.com
 <div><img src="rag.png" width="400" /></div>
 
-- **Multi-Agent Office**: https://www.office.wexopen.com
+- **Multi-Agent System**: https://www.office.wexopen.com
 <div><img src="wexoffice.png" width="400" /></div>
 
 ### 📫 Contact
@@ -39,6 +39,7 @@
 ### 💻 Tech
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-FF6B6B?style=flat" />
   <img src="https://img.shields.io/badge/LLM-007ACC?style=flat" />
