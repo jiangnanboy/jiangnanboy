@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Document%20Intelligence-4682B4?style=flat&logo=document&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-FF6B6B?style=flat" />
   <img src="https://img.shields.io/badge/LLM-007ACC?style=flat" />
   <img src="https://img.shields.io/badge/Multi--Agent-52fa5a?style=flat" />
