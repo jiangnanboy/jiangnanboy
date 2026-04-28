@@ -35,8 +35,8 @@ with rich practical experience in NLP, OCR, document intelligence and knowledge 
 ## 🚀 Online Projects
 | Project Name | Introduction | Online Address |
 | :--- | :--- | :--- |
-| TalkSheet | Intelligent dialogue & content processing platform | [🔗](https://www.talksheet.wexopen.com) |
-| RAG QA System | Enterprise-level multimodal RAG question answering | [🔗](https://www.rag.wexopen.com) |
+| TalkSheet | Excel Intelligent Analysis | [🔗](https://www.talksheet.wexopen.com) |
+| RAG QA System | Industrial Intelligent Q&A | [🔗](https://www.rag.wexopen.com) |
 | Multi-Agent System | Office collaborative intelligent agent platform | [🔗](https://www.office.wexopen.com) |
 
 <div align="center">
