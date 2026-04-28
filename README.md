@@ -14,6 +14,11 @@ with rich practical experience in NLP, OCR, document intelligence and knowledge 
   <img src="code-fire.gif" width="180" />
   <img src="code-fire.gif" width="180" />
 </div>
+<br>
+
+<div align="center">
+  <img src="code-peace.gif" width="180" />
+</div>
 
 <hr>
 
