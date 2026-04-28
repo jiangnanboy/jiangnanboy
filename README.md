@@ -65,6 +65,7 @@ with rich practical experience in NLP, OCR, document intelligence and knowledge 
 ### 🧠 LLM & Agent Applications
 | Project | Description |
 | :--- | :--- |
+| [clinic-agent](https://github.com/jiangnanboy/clinic-agent) | Clinic Intelligent Appointment and Registration Customer Service System |
 | [LangChain & LangGraph Agent System](https://github.com/jiangnanboy/Agent_System_Design_and_Practical_Applications_Based_on_LangChain_and_LangGraph) | End-to-end multi-agent design and industrial practice |
 | [Medical Diagnosis Assistant](https://github.com/jiangnanboy/medical-diagnosis-assistant) | Domain-oriented medical consultation auxiliary model |
 | [Food Safety Analysis](https://github.com/jiangnanboy/food_packaging_analysis) | Ingredient nutrition & food safety intelligent detection |
@@ -174,6 +175,7 @@ with rich practical experience in NLP, OCR, document intelligence and knowledge 
 ### 🛠️ AI Basic Tools
 | Project | Description |
 | :--- | :--- |
+| [jiajia-search](https://github.com/jiangnanboy/jiajia-search) | Multilingual Lightweight & High-Performance Hybrid Search Engine | Built for RAG |
 | [DocImg Tool](https://github.com/jiangnanboy/docimg_tool) | Practical toolset for daily document image processing |
 | [micrograd4j](https://github.com/jiangnanboy/micrograd4j) | Java lightweight automatic differentiation engine |
 | [j4nlp](https://github.com/jiangnanboy/j4nlp) | Common NLP utility library based on Java |
