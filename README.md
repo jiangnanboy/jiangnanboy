@@ -41,7 +41,9 @@ with rich practical experience in NLP, OCR, document intelligence and knowledge 
 
 <div align="center">
     <img src="talksheet.png" width="400" />
+  <br>
     <img src="rag.png" width="400" />
+  <br>
     <img src="wexoffice.png" width="400" />
 </div>
 
