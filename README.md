@@ -4,9 +4,7 @@ Currently, my core research and practice focus on **LLM application implementati
 with rich practical experience in NLP, OCR, document intelligence and knowledge graph.
 
 <!-- GitHub Stats -->
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=jiangnanboy" />
-</div>
+<img src="https://github-readme-stats-git-master.anuraghazra.vercel.app/api?username=jiangnanboy" />
 <br>
 
 <div align="center">
