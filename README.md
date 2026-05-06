@@ -5,7 +5,7 @@ with rich practical experience in NLP, OCR, document intelligence and knowledge 
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=jiangnanboy&hide_title=true&hide_border=true&show_icons=true&theme=radical" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=jiangnanboy&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=ea6161&bg_color=ea6161,ffc64d,fffc4d,52fa5a&theme=gradient" />
 </div>
 <br>
 
