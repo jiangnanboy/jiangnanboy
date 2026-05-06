@@ -5,7 +5,7 @@ with rich practical experience in NLP, OCR, document intelligence and knowledge 
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img height="137px" src="https://stats.justsong.cn/api/github?username=jiangnanboy&hide_title=true&hide_border=true&show_icons=true&text_color=000000&icon_color=000000" />
+  <img height="137px" src="https://stats.justsong.cn/api/github?username=jiangnanboy&hide_title=true&hide_border=true&show_icons=true&text_color=000000&icon_color=ea6161&bg_color=ea6161,ffc64d,fffc4d,52fa5a" />
 </div>
 <br>
 
