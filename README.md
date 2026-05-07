@@ -148,6 +148,7 @@ with rich practical experience in NLP, OCR, document intelligence and knowledge 
 ### 🖼️ Image Processing & OCR
 | Project | Description |
 | :--- | :--- |
+| [OpenOCR4j](https://github.com/jiangnanboy/openocr4j) | Lightweight end-to-end document parsing |
 | [Lightweight Table Recognition](https://github.com/jiangnanboy/nanonet_table_line_recognition) | Ultra-light wired table detection and structural analysis |
 | [JiaJiaOCR](https://github.com/jiangnanboy/JiaJiaOCR) | Pure Java self-developed OCR recognition engine |
 | [Document Image Tool](https://github.com/jiangnanboy/Doc-Image-Tool) | Scanned document enhancement and batch optimization |
