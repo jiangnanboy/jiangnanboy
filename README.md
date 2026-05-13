@@ -40,9 +40,9 @@ with rich practical experience in NLP, OCR, document intelligence and knowledge 
 ## 🚀 Online Projects
 | Project Name | Introduction | Online Address |
 | :--- | :--- | :--- |
-| TalkSheet | Excel Intelligent Analysis | https://www.talksheet.wexopen.com |
-| RAG QA System | Industrial Intelligent Q&A | https://www.rag.wexopen.com |
-| Multi-Agent System | Office collaborative intelligent agent platform | https://www.office.wexopen.com |
+| TalkSheet Agent| Excel Intelligent Analysis Agent| https://www.talksheet.wexopen.com |
+| RAG QA System Agent| Industrial Intelligent Q&A Agent| https://www.rag.wexopen.com |
+| Multi-Agent Office System | Office collaborative intelligent agent platform | https://www.office.wexopen.com |
 
 <div align="center">
     <img src="talksheet.png" width="400" />
@@ -59,14 +59,14 @@ with rich practical experience in NLP, OCR, document intelligence and knowledge 
 ### 🖥️ Desktop Software
 | Project | Description |
 | :--- | :--- |
-| [OCR & Table Tool](https://github.com/jiangnanboy/ocr_table_software) | All-in-one OCR, table recognition, screenshot capture & export |
-| [Video to PPT/PDF Converter](https://github.com/jiangnanboy/video2ppt-pdf-software) | Generate editable PPT from video with deduplication & clip extraction |
-| [Document Comparison Tool](https://github.com/jiangnanboy/doc_diff_software) | Multi-format document contrast analysis & intelligent report generation |
-| [Document Image Processor](https://github.com/jiangnanboy/doc_image_process_software) | Image enhancement, distortion correction, shadow removal & edge cropping |
+| [OCR & Table Tool](https://www.wexopen.com/products/) | All-in-one OCR, table recognition, screenshot capture & export |
+| [Video to PPT/PDF Converter](https://www.wexopen.com/products/) | Generate editable PPT from video with deduplication & clip extraction |
+| [Document Comparison Tool](https://www.wexopen.com/products/) | Multi-format document contrast analysis & intelligent report generation |
+| [Document Image Processor](https://www.wexopen.com/products/) | Image enhancement, distortion correction, shadow removal & edge cropping |
 
 ---
 
-### AI Projects
+### Feature projects
 | Project | Description |
 | :--- | :--- |
 | [Chinese Text Corrector](https://github.com/jiangnanboy/jcorrector) | Practical open-source Chinese error correction toolkit |
@@ -76,6 +76,13 @@ with rich practical experience in NLP, OCR, document intelligence and knowledge 
 | [JiaJiaOCR](https://github.com/jiangnanboy/JiaJiaOCR) | Pure Java self-developed OCR recognition engine |
 | [Document Image Tool](https://github.com/jiangnanboy/Doc-Image-Tool) | Scanned document enhancement and batch optimization |
 | [Learning to Rank](https://github.com/jiangnanboy/learning_to_rank) | Search sorting model optimization and algorithm practice |
+
+---
+
+### All projects
+| Project | Description |
+| :--- | :--- |
+| [All projects](https://jiangnanboy.github.io) | Project Classification Details |
 
 ## 💻 Tech Stack Badges
 <div align="center">
