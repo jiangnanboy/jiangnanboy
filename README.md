@@ -69,6 +69,7 @@ with rich practical experience in NLP, OCR, document intelligence and knowledge 
 ### Feature projects
 | Project | Description |
 | :--- | :--- |
+| [RAGForge](https://github.com/jiangnanboy/RAGForge) | Modular, composable RAG retrieval library —— Build your retrieval pipeline like forging parts |
 | [Chinese Text Corrector](https://github.com/jiangnanboy/jcorrector) | Practical open-source Chinese error correction toolkit |
 | [Intelligent Medical KG](https://github.com/jiangnanboy/intelligent_medical) | Medical knowledge graph, symptom retrieval and diagnosis Q&A |
 | [K12 Education Knowledge Graph](https://github.com/jiangnanboy/education_knowledge_graph_app) | Education-oriented KG visualization and knowledge reasoning |
