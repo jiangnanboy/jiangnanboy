@@ -41,7 +41,7 @@ with rich practical experience in NLP, OCR, document intelligence and knowledge 
 | Project Name | Introduction | Online Address |
 | :--- | :--- | :--- |
 | TalkSheet Agent| Excel Intelligent Analysis Agent| https://www.talksheet.wexopen.com |
-| RAG QA System Agent| Industrial Intelligent Q&A Agent| https://www.rag.wexopen.com |
+| RAG QA System Agent| Industrial Equipment Intelligent Q&A Agent| https://www.rag.wexopen.com |
 | Multi-Agent Office System | Office collaborative intelligent agent platform | https://www.office.wexopen.com |
 
 <div align="center">
