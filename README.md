@@ -38,23 +38,21 @@ with rich practical experience in NLP, OCR, document intelligence and knowledge 
 <hr>
 
 ## 🚀 Online Projects
+
 | Project Name | Introduction | Online Address |
 | :--- | :--- | :--- |
-| Digital human AI system| Digital avatar for corporate virtual sales support| https://www.digital.wexopen.com |
-| TalkSheet Agent| Excel Intelligent Analysis Agent| https://www.talksheet.wexopen.com |
-| RAG QA System Agent| Industrial Equipment Intelligent Q&A Agent| https://www.rag.wexopen.com |
-| Multi-Agent Office System | Office collaborative intelligent agent platform | https://www.office.wexopen.com |
+| 🤖 **Digital human AI system** | Digital avatar for corporate virtual sales support | [digital.wexopen.com](https://www.digital.wexopen.com) |
+| 📊 **TalkSheet Agent** | Excel Intelligent Analysis Agent | [talksheet.wexopen.com](https://www.talksheet.wexopen.com) |
+| 📚 **RAG QA System Agent** | Industrial Equipment Intelligent Q&A Agent | [rag.wexopen.com](https://www.rag.wexopen.com) |
+| 👥 **Multi-Agent Office System** | Office collaborative intelligent agent platform | [office.wexopen.com](https://www.office.wexopen.com) |
 
-<div align="center">
-    <img src="digital.png" width="400" />
-  <br>
-    <img src="talksheet.png" width="400" />
-  <br>
-    <img src="rag.png" width="400" />
-  <br>
-    <img src="wexoffice.png" width="400" />
-</div>
-
+<p align="center">
+  <img src="digital.png" width="320" />
+  <img src="talksheet.png" width="320" />
+  <br><br>
+  <img src="rag.png" width="320" />
+  <img src="wexoffice.png" width="320" />
+</p>
 <hr>
 
 ## 📦 Key Projects
