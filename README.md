@@ -40,11 +40,14 @@ with rich practical experience in NLP, OCR, document intelligence and knowledge 
 ## 🚀 Online Projects
 | Project Name | Introduction | Online Address |
 | :--- | :--- | :--- |
+| Digital human AI system| Digital avatar for corporate virtual sales support| https://www.digital.wexopen.com |
 | TalkSheet Agent| Excel Intelligent Analysis Agent| https://www.talksheet.wexopen.com |
 | RAG QA System Agent| Industrial Equipment Intelligent Q&A Agent| https://www.rag.wexopen.com |
 | Multi-Agent Office System | Office collaborative intelligent agent platform | https://www.office.wexopen.com |
 
 <div align="center">
+    <img src="digital.png" width="400" />
+  <br>
     <img src="talksheet.png" width="400" />
   <br>
     <img src="rag.png" width="400" />
