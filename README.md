@@ -41,17 +41,30 @@ with rich practical experience in NLP, OCR, document intelligence and knowledge 
 
 | Project Name | Introduction | Online Address |
 | :--- | :--- | :--- |
-| 🤖 **Digital human AI system** | Digital avatar for corporate virtual sales support | [digital.wexopen.com](https://www.digital.wexopen.com) |
-| 📊 **TalkSheet Agent** | Excel Intelligent Analysis Agent | [talksheet.wexopen.com](https://www.talksheet.wexopen.com) |
-| 📚 **RAG QA System Agent** | Industrial Equipment Intelligent Q&A Agent | [rag.wexopen.com](https://www.rag.wexopen.com) |
-| 👥 **Multi-Agent Office System** | Office collaborative intelligent agent platform | [office.wexopen.com](https://www.office.wexopen.com) |
+| **Digital human AI system** | Digital avatar for corporate virtual sales support | [digital.wexopen.com](https://www.digital.wexopen.com) |
+| **TalkSheet Agent** | Excel Intelligent Analysis Agent | [talksheet.wexopen.com](https://www.talksheet.wexopen.com) |
+| **RAG QA System Agent** | Industrial Equipment Intelligent Q&A Agent | [rag.wexopen.com](https://www.rag.wexopen.com) |
+| **Multi-Agent Office System** | Office collaborative intelligent agent platform | [office.wexopen.com](https://www.office.wexopen.com) |
 
 <p align="center">
   <img src="digital.png" width="320" />
-  <img src="talksheet.png" width="320" />
+  <br>
+  <strong>Digital human AI system</strong>
   <br><br>
+
+  <img src="talksheet.png" width="320" />
+  <br>
+  <strong>TalkSheet Agent</strong>
+  <br><br>
+
   <img src="rag.png" width="320" />
+  <br>
+  <strong>RAG QA System Agent</strong>
+  <br><br>
+
   <img src="wexoffice.png" width="320" />
+  <br>
+  <strong>Multi-Agent Office System</strong>
 </p>
 <hr>
 
