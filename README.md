@@ -47,24 +47,21 @@ with rich practical experience in NLP, OCR, document intelligence and knowledge 
 | **Multi-Agent Office System** | Office collaborative intelligent agent platform | [office.wexopen.com](https://www.office.wexopen.com) |
 
 <p align="center">
-  <img src="digital.png" width="320" />
+  <div>
+    <img src="digital.png" width="320" />
+    <img src="talksheet.png" width="320" />
+  </div>
+  <div>
+    <strong>Digital human AI system</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>TalkSheet Agent</strong>
+  </div>
   <br>
-  <strong>Digital human AI system</strong>
-  <br><br>
-
-  <img src="talksheet.png" width="320" />
-  <br>
-  <strong>TalkSheet Agent</strong>
-  <br><br>
-
-  <img src="rag.png" width="320" />
-  <br>
-  <strong>RAG QA System Agent</strong>
-  <br><br>
-
-  <img src="wexoffice.png" width="320" />
-  <br>
-  <strong>Multi-Agent Office System</strong>
+  <div>
+    <img src="rag.png" width="320" />
+    <img src="wexoffice.png" width="320" />
+  </div>
+  <div>
+    <strong>RAG QA System Agent</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Multi-Agent Office System</strong>
+  </div>
 </p>
 <hr>
 
